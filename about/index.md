@@ -1,16 +1,30 @@
-# If you want to use this theme
+---
+title: About
+layout: info
+Edit: 2021-12-03
+toc: false
+commentable: false
+protected: true
+mathjax: true
+---
 
-Please read [this link](https://yk-liu.github.io/jekyll/Jekyll-Build.html#what-should-i-modify). 
+# Me
+My name is Jinyang Zhou. I am a graduate student at the University of Chicago. I am interested in high-dimensional inference, probabilistic problems, and sequential analysis. I am preparing to be a data scientist. I am fortunate to have Professor Yuehaw Khoo at UChicago as my master advisor during 2020-2022, and Professor Pinyuen Chen at Syracuse University supervising my undergraduate thesis in Biostatistics during 2019-2020.
 
-I **strongly** recommand that you use the other [repo](https://github.com/yk-liu/PointingToTheMoon) I specially prepared for you! It has all the features that this webiste has and has no personal information of me. You can fork that repo or leave a star if you like. 
+# Posts
 
-However, you can still use this repo for some fine-tuning or hackering. But please at least use the "theme-for-fork" branch rather than the master branch.
+The posts are at different status.
 
-If you still want to use the master branch for some reason, please remove files/ descriptions about `yk-liu` so I don't have to pester you to clean up. Also I would appreciate if you don't fork this repo, but clone it and upload to your own, so there is no network between you and me. And if you really like this repo, maybe consider giving it a star.
+| Status    | Meaning                                                      |
+| --------- | ------------------------------------------------------------ |
+| Completed | This post is considered completed, but I might edit it when I came up with something new. |
+| Writing   | This post is being actively edited.                          |
+| Paused    | This post is considered of low priority. I will come back to this post later. |
+| Archived  | This post is outdated and I probably won't update it anymore. |
 
-# About this website
+# Sources
 
-This website (source code [here](https://github.com/yk-liu/yk-liu.github.io)) uses these sources:
+This website uses these sources:
 
 | Module                                                       | Mainly used in                                  | License/ TOS                                                 |
 | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ |
@@ -27,3 +41,11 @@ This website (source code [here](https://github.com/yk-liu/yk-liu.github.io)) us
 | [comment](https://commentit.io)                              | Post                                            | [APGL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)       |
 | [404 T-rex game](https://github.com/wayou/t-rex-runner)      | 404 page                                        | from [Chromium source code](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package), [license](https://chromium.googlesource.com/chromium/src.git/+/master/LICENSE) |
 | [Encryption](https://github.com/robinmoisson/staticrypt)     | Secret Pages                                    | [MIT](http://opensource.org/licenses/MIT)                    |
+
+Additional licensing information can be found YOUR WEBSITE LINK.
+
+Many thank for Yingkai Liu to offer this website template.
+
+# Contact
+
+The best way to reach me is via email: $jzhou16$ @ $uchicago.edu$
