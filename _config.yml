@@ -1,9 +1,9 @@
 # Site settings
 title: Welcome
-description: Jinyang's Website
+description: Chee Kay's Website
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
-url: "https://jyang-zhou.github.io"  
+url: "https://cheekayc.github.io"  
 
 
 # GitHub User settings
@@ -11,7 +11,7 @@ username: Username
 github_username: github_username
 user_description: user_description
 user_title: user_title
-email: jzhou16@uchicago.edu
+email: ccheong@esf.edu
 
 # Blog Author settings
 author:
